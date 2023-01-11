@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "2b6d20641850ff35",
+    "type": "split",
+    "children": [
+      {
+        "id": "c54f4944f9fe0e78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9587702359483b68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "විමසුම..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb310f31fbd10f57",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3ff1d96364406e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59513bdebaf391ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fce193c3fb390c8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c5b550a52c1a395",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "251e3676f0e7da33",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b5f2b7254522542",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89859122f02649f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "විමසුම..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f6b96ff1b767115c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "විමසුම..md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7f17c7eb6d9e4e7f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a3ba0f8897cd61f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "විමසුම..md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9587702359483b68",
+  "lastOpenFiles": [
+    "සංකල්ප/සංඛාරා.md",
+    "සංකල්ප/අනිච්ඡාතී.md",
+    "මාර්ගය හඳුනා ගැනීම/මාර්ගය..md",
+    "විමසුම..md",
+    "මාර්ගය හඳුනා ගැනීම/දුක/දුක උදාහරණ/මෝටර් සයිකලය.md",
+    "මාර්ගය හඳුනා ගැනීම/දුක/දුක උදාහරණ/චිත්‍රපටය.md",
+    "ලිපි/උපේක්ෂා/උපේක්ෂා.md",
+    "ලිපි/උපේක්ෂා/ඉන්‍දිය භාවනා සූත්‍රයෙහි එන උපමාව.md",
+    "උපේක්‍ෂාව.md",
+    "works.md"
+  ]
+}

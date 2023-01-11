@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"14da9266ca8bd6dc","x":-318,"y":-695,"width":242,"height":92,"type":"text","text":"![[Pasted image 20230109115515.png]]\n"},
+		{"id":"8f33939f295e3a73","x":-636,"y":-1010,"width":250,"height":60,"type":"text","text":"12500\n"},
+		{"id":"f5bfbac985b84aca","x":-636,"y":-875,"width":404,"height":139,"type":"text","text":"Dell Memory Upgrade - 8GB - 1Rx8 DDR4 SODIMM 2666MHz\n\nOEM Manufacturer Equivalent Part Number\nDELL SNPHYXPXC/8G, DELL A9206671"},
+		{"id":"b01a02cee7322bc3","x":-121,"y":-980,"width":250,"height":141,"type":"text","text":"![[Pasted image 20230109120626.png]]"}
+	],
+	"edges":[
+		{"id":"c75c3cdcac50d72b","fromNode":"f5bfbac985b84aca","fromSide":"bottom","toNode":"14da9266ca8bd6dc","toSide":"top"}
+	]
+}

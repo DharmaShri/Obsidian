@@ -1,0 +1,134 @@
+{
+  "main": {
+    "id": "e34034f442cc8942",
+    "type": "split",
+    "children": [
+      {
+        "id": "96ee21ea861f1881",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45381eb91e9321f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "මාර්ගය හඳුනා ගැනීම/දෘෂ්ඨි කෝණයේ වෙනස.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c091fd4917437e3f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4f3324bb8674213b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byModifiedTime"
+          }
+        }
+      },
+      {
+        "id": "190ae2d7ae028507",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "2ba5be5d2b69051d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "499d73859cbb39e0",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e77a93f0b13a57e1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "be9a5c087cab6921",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "මාර්ගය හඳුනා ගැනීම/දෘෂ්ඨි කෝණයේ වෙනස.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "50d3b4318c97d22a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "මාර්ගය හඳුනා ගැනීම/දෘෂ්ඨි කෝණයේ වෙනස.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5b9046a614c443bd",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "මාර්ගය හඳුනා ගැනීම/දෘෂ්ඨි කෝණයේ වෙනස.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "4f3324bb8674213b",
+  "lastOpenFiles": [
+    "මාර්ගය හඳුනා ගැනීම/මාර්ගය..md",
+    "මාර්ගය හඳුනා ගැනීම/දෘෂ්ඨි කෝණයේ වෙනස.md",
+    "මාර්ගය.md",
+    "වෙනත්/New.md",
+    "වෙනත්/Untitled55.md",
+    "වෙනත්/විමසුම..md",
+    "වෙනත්/ධම්මදාන ලිපි සැලසුම්/ලිපි/උපේක්ෂාව/උපේක්‍ෂාව.md"
+  ]
+}
