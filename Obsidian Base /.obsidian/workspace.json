@@ -4,15 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "f001136d12a2dc12",
+        "id": "ede147663fe554a5",
         "type": "tabs",
         "children": [
           {
-            "id": "e085c7f7912a0bc5",
+            "id": "3e6628163e6a628c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Personal/Dell/Dell RAM.canvas",
+                "viewState": {
+                  "x": -253.5,
+                  "y": -806.5,
+                  "zoom": -0.3074285251922475,
+                  "snapToGrid": false
+                }
+              }
             }
           }
         ]
@@ -81,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/Dell/Dell RAM.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personal/Dell/Dell RAM.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personal/Dell/Dell RAM.canvas"
+              }
             }
           }
         ]
@@ -138,17 +150,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5b21d3edfa29490",
+  "active": "3e6628163e6a628c",
   "lastOpenFiles": [
-    "Dhamma Dana/වෙනත්/ධම්මදාන ලිපි සැලසුම්/ලිපි/චිත්ත වීථි/චිත්තවීති දැකගැනීම..md",
+    "Dhamma Dana/වෙනත්/ධම්මදාන ලිපි සැලසුම්/ලිපි/උපේක්ෂාව/උපේක්‍ෂාව.md",
+    "Knowledge Base/General/Science & Philosophy/උපේක්ෂා 1.md",
+    "Knowledge Base/General/Science & Philosophy/Science.md",
+    "ObsidianWork/test/the.md",
     "ObsidianWork/test/test note.md",
-    "ObsidianWork/test/F1/Science.md",
+    "ObsidianWork/test/c1.canvas",
+    "Dhamma Dana/වෙනත්/ධම්මදාන ලිපි සැලසුම්/ලිපි/චිත්ත වීථි/චිත්තවීති දැකගැනීම..md",
     "Dhamma Dana/වෙනත්/විමසුම..md",
     "ObsidianWork/test/VIS.md",
-    "ObsidianWork/test/the.md",
-    "ObsidianWork/test/c1.canvas",
-    "Dhamma Dana/මාර්ගය හඳුනා ගැනීම/මාර්ගය..md",
-    "Dhamma Dana/මාර්ගය හඳුනා ගැනීම/දෘෂ්ඨි කෝණයේ වෙනස.md",
-    "Dhamma Dana/වෙනත්/ධම්මදාන ලිපි සැලසුම්/ලිපි/උපේක්ෂාව/ඉන්‍දිය භාවනා සූත්‍රයෙහි එන උපමාව.md"
+    "Dhamma Dana/මාර්ගය හඳුනා ගැනීම/මාර්ගය..md"
   ]
 }
