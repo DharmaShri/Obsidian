@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "2b6d20641850ff35",
+    "id": "95eecb35761bf4da",
     "type": "split",
     "children": [
       {
-        "id": "c54f4944f9fe0e78",
+        "id": "ed92f0dbeb6feced",
         "type": "tabs",
         "children": [
           {
-            "id": "9587702359483b68",
+            "id": "2a3cf69eb0c5ed16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "විමසුම..md",
-                "mode": "source",
+                "file": "0 ෴ 0.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "fb310f31fbd10f57",
+    "id": "ba62c2f706928387",
     "type": "split",
     "children": [
       {
-        "id": "b3ff1d96364406e4",
+        "id": "ec996c1c7c4aadd8",
         "type": "tabs",
         "children": [
           {
-            "id": "59513bdebaf391ae",
+            "id": "d7752d7128a1eab4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +43,12 @@
             }
           },
           {
-            "id": "fce193c3fb390c8e",
+            "id": "8284c42c30269c53",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ලෝකය",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "5c5b550a52c1a395",
+            "id": "2199c21394c149fb",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -72,44 +72,44 @@
     "width": 300
   },
   "right": {
-    "id": "251e3676f0e7da33",
+    "id": "efa2ebd4a1b74873",
     "type": "split",
     "children": [
       {
-        "id": "9b5f2b7254522542",
+        "id": "77dbc430c43b0fe3",
         "type": "tabs",
         "children": [
           {
-            "id": "89859122f02649f0",
+            "id": "698b92f656ab9609",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "විමසුම..md",
+                "file": "0 ෴ 0.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f6b96ff1b767115c",
+            "id": "d93ede4914a09cd9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "විමසුම..md",
+                "file": "0 ෴ 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7f17c7eb6d9e4e7f",
+            "id": "2f845b146a5d966b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,21 +120,21 @@
             }
           },
           {
-            "id": "a3ba0f8897cd61f6",
+            "id": "ce1961e594d5bb07",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "විමසුම..md"
+                "file": "0 ෴ 0.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9587702359483b68",
+  "active": "2a3cf69eb0c5ed16",
   "lastOpenFiles": [
-    "සංකල්ප/සංඛාරා.md",
-    "සංකල්ප/අනිච්ඡාතී.md",
-    "මාර්ගය හඳුනා ගැනීම/මාර්ගය..md",
-    "විමසුම..md",
-    "මාර්ගය හඳුනා ගැනීම/දුක/දුක උදාහරණ/මෝටර් සයිකලය.md",
-    "මාර්ගය හඳුනා ගැනීම/දුක/දුක උදාහරණ/චිත්‍රපටය.md",
-    "ලිපි/උපේක්ෂා/උපේක්ෂා.md",
-    "ලිපි/උපේක්ෂා/ඉන්‍දිය භාවනා සූත්‍රයෙහි එන උපමාව.md",
-    "උපේක්‍ෂාව.md",
-    "works.md"
+    "වැකි.md",
+    "සංසාරය.md",
+    "ලෝකය හා යතාර්ථය.md",
+    "0 ෴ 0.md",
+    "උදාහරණ.md",
+    "දාර්ශනිික ලක්ෂණ.md",
+    "මාර්ගය.md",
+    "අසංඛත.md",
+    "සංඛත.md",
+    "new.md"
   ]
 }
