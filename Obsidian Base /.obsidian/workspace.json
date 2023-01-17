@@ -4,22 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ede147663fe554a5",
+        "id": "36e4810ed3cf123d",
         "type": "tabs",
         "children": [
           {
-            "id": "3e6628163e6a628c",
+            "id": "10aa472d956ffa07",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Personal/Dell/Dell RAM.canvas",
-                "viewState": {
-                  "x": -253.5,
-                  "y": -806.5,
-                  "zoom": -0.3074285251922475,
-                  "snapToGrid": false
-                }
+                "file": "Diary2.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -52,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#tag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Dell/Dell RAM.canvas",
+                "file": "Diary2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Dell/Dell RAM.canvas",
+                "file": "Diary2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,38 +125,37 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Dell/Dell RAM.canvas"
+                "file": "Diary2.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e6628163e6a628c",
+  "active": "a2ab1ffb50b89e77",
   "lastOpenFiles": [
-    "Dhamma Dana/වෙනත්/ධම්මදාන ලිපි සැලසුම්/ලිපි/උපේක්ෂාව/උපේක්‍ෂාව.md",
-    "Knowledge Base/General/Science & Philosophy/උපේක්ෂා 1.md",
-    "Knowledge Base/General/Science & Philosophy/Science.md",
-    "ObsidianWork/test/the.md",
-    "ObsidianWork/test/test note.md",
-    "ObsidianWork/test/c1.canvas",
-    "Dhamma Dana/වෙනත්/ධම්මදාන ලිපි සැලසුම්/ලිපි/චිත්ත වීථි/චිත්තවීති දැකගැනීම..md",
-    "Dhamma Dana/වෙනත්/විමසුම..md",
-    "ObsidianWork/test/VIS.md",
-    "Dhamma Dana/මාර්ගය හඳුනා ගැනීම/මාර්ගය..md"
+    "සැලසුම්/යෝජිත.md",
+    "link.md",
+    "යොමු.md",
+    "විමසුම..md",
+    "test markdoun.md",
+    "Personal/Notes.md",
+    "Untitled.md",
+    "Diary2.md",
+    "8 settings.md",
+    "Dhamma/මාර්ගය හඳුනා ගැනීම/දුක/දුක උදාහරණ/චිත්‍රපටය.md"
   ]
 }
