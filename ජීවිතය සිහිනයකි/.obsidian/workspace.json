@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "new note.md",
+                "file": "උදාහරණ.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "new note.md",
+                "file": "උදාහරණ.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "new note.md",
+                "file": "උදාහරණ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "new note.md"
+                "file": "උදාහරණ.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "a838b55d05d1b783",
   "lastOpenFiles": [
+    "new note.md",
     "උදාහරණ.md",
     "0 ෴ 0.md",
     "ලෝකය හා යතාර්ථය.md",
@@ -169,7 +170,6 @@
     "දාර්ශනිික ලක්ෂණ.md",
     "මාර්ගය.md",
     "අසංඛත.md",
-    "සංඛත.md",
-    "new.md"
+    "සංඛත.md"
   ]
 }
