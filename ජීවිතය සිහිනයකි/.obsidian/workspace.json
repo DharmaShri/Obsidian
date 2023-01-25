@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ed92f0dbeb6feced",
+        "id": "4d3a9a3538e160cd",
         "type": "tabs",
         "children": [
           {
-            "id": "2a3cf69eb0c5ed16",
+            "id": "5924f539d48959ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "උදාහරණ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a838b55d05d1b783",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "උදාහරණ.md",
+                "file": "දැකිය යුතු ලකුණු.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ලෝකය",
+                "query": "tag:#මාර්ගය",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,13 +85,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "උදාහරණ.md",
+                "file": "දැකිය යුතු ලකුණු.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "උදාහරණ.md",
+                "file": "දැකිය යුතු ලකුණු.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "උදාහරණ.md"
+                "file": "දැකිය යුතු ලකුණු.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 263.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,16 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a838b55d05d1b783",
+  "active": "5924f539d48959ad",
   "lastOpenFiles": [
-    "new note.md",
     "උදාහරණ.md",
     "0 ෴ 0.md",
-    "ලෝකය හා යතාර්ථය.md",
+    "දැකිය යුතු ලකුණු.md",
     "සංසාරය.md",
     "වැකි.md",
-    "දාර්ශනිික ලක්ෂණ.md",
     "මාර්ගය.md",
+    "ලෝකය හා යතාර්ථය.md",
+    "new note.md",
     "අසංඛත.md",
     "සංඛත.md"
   ]
