@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ජීවිතය සිහිනයකි/0 ෴ 0.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ජීවිතය සිහිනයකි/0 ෴ 0.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ජීවිතය සිහිනයකි/0 ෴ 0.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ජීවිතය සිහිනයකි/0 ෴ 0.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,12 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eadf564ec6d6c85f",
+  "active": "03cb2d79355fd03b",
   "lastOpenFiles": [
+    "ජීවිතය සිහිනයකි/සංසාරය.md",
+    "ජීවිතය සිහිනයකි/0 ෴ 0.md",
     "ජීවිතය සිහිනයකි/උදාහරණ.md",
     "ජීවිතය සිහිනයකි/දැකිය යුතු ලකුණු.md",
-    "ජීවිතය සිහිනයකි/සංසාරය.md",
-    "ජීවිතය සිහිනයකි/වැකි.md",
-    "ජීවිතය සිහිනයකි/0 ෴ 0.md"
+    "ජීවිතය සිහිනයකි/වැකි.md"
   ]
 }
