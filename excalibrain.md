@@ -20,7 +20,7 @@ open a document in another pane.
 in Excalidraw settings under 'Links and Transclusion'.
 
 ⚠ ExcaliBrain may need to wait for DataView to initialize its index.
-This can take up to a few minutes after starting Obsidian. ^fTpcRcfR
+This can take up to a few minutes after starting Obsidian. ^OIblWgvS
 
 %%
 # Drawing
@@ -33,9 +33,9 @@ This can take up to a few minutes after starting Obsidian. ^fTpcRcfR
 		{
 			"type": "text",
 			"version": 1,
-			"versionNonce": 38434766,
+			"versionNonce": 839131409,
 			"isDeleted": false,
-			"id": "fTpcRcfR",
+			"id": "OIblWgvS",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
@@ -48,11 +48,11 @@ This can take up to a few minutes after starting Obsidian. ^fTpcRcfR
 			"backgroundColor": "transparent",
 			"width": 813,
 			"height": 224,
-			"seed": 56749,
+			"seed": 69937,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1675644247872,
+			"updated": 1675939643760,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,

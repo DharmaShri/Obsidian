@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ab2f4286fc4febd5",
+        "id": "80d46e595e104903",
         "type": "tabs",
         "children": [
           {
-            "id": "1440b590720f04d5",
+            "id": "1cf0bdaecb813767",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "වනය.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#වනය",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "වනය.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "වනය.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "වනය.md"
+              }
             }
           }
         ]
@@ -139,17 +148,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1440b590720f04d5",
+  "active": "1ef4a7e30dfac2f2",
   "lastOpenFiles": [
-    "Excalidraw/menu.md",
-    "Canvases/3.canvas",
-    "Canvases/2.canvas",
-    "Canvases/1.canvas",
-    "ජීවිතය - (මාරයාගේ) - සිහිනයකි/0 ෴ 0.md",
-    "ජීවිතය - (මාරයාගේ) - සිහිනයකි/දැකිය යුතු ලකුණු.md",
-    "ජීවිතය - (මාරයාගේ) - සිහිනයකි/මාර්ගය.md",
-    "ජීවිතය - (මාරයාගේ) - සිහිනයකි/වැකි.md",
-    "ජීවිතය - (මාරයාගේ) - සිහිනයකි/උදාහරණ.md",
-    "ජීවිතය - (මාරයාගේ) - සිහිනයකි/ලෝකය හා යතාර්ථය.md"
+    "ජීවිතය/වැකි.md",
+    "වනය.md",
+    "ජීවිතය/0 ෴ 0.md",
+    "ජීවිතය/උදාහරණ.md",
+    "ජීවිතය/දැකිය යුතු ලකුණු.md",
+    "ජීවිතය/මාර්ගය.md",
+    "ජීවිතය/ලෝකය හා යතාර්ථය.md",
+    "ජීවිතය/සංසාරය.md",
+    "excalibrain.md",
+    "ජීවිතයේ ස්වභාවය.md"
   ]
 }
