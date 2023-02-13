@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "80d46e595e104903",
+        "id": "3642ba9f227cfd40",
         "type": "tabs",
         "children": [
           {
-            "id": "1cf0bdaecb813767",
+            "id": "092e72cd03bafc45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "වනය.md",
-                "mode": "source",
+                "file": "ජීවිතය/0 ෴ 0.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#වනය",
+                "query": "tag:#අනිච්ඡ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c2898fc338fb4916",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "වනය.md",
+                "file": "ජීවිතය/0 ෴ 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "වනය.md",
+                "file": "ජීවිතය/0 ෴ 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "වනය.md"
+                "file": "ජීවිතය/0 ෴ 0.md"
               }
             }
           }
@@ -148,17 +148,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1ef4a7e30dfac2f2",
+  "active": "092e72cd03bafc45",
   "lastOpenFiles": [
-    "ජීවිතය/වැකි.md",
-    "වනය.md",
+    "extra topics/වනය.md",
     "ජීවිතය/0 ෴ 0.md",
     "ජීවිතය/උදාහරණ.md",
-    "ජීවිතය/දැකිය යුතු ලකුණු.md",
-    "ජීවිතය/මාර්ගය.md",
-    "ජීවිතය/ලෝකය හා යතාර්ථය.md",
+    "ජීවිතය/වැකි.md",
     "ජීවිතය/සංසාරය.md",
-    "excalibrain.md",
-    "ජීවිතයේ ස්වභාවය.md"
+    "ජීවිතය/ලෝකය හා යතාර්ථය.md",
+    "ජීවිතය/දැකිය යුතු ලකුණු.md",
+    "extra topics/යතාර්ථය වූ නිරෝධයේ ස්වභාවය.md",
+    "extra topics/මාරයා/මාරයා.md",
+    "ජීවිතය/මාර්ගය.md"
   ]
 }
