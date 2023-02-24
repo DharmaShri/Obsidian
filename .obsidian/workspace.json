@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "73bf50550ece32fd",
+        "id": "3fea35650dd73963",
         "type": "tabs",
         "children": [
           {
-            "id": "bbc4addc237fdbd7",
+            "id": "ca5166ac587f5df3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "ජීවිතය/0 ෴ 0.md",
-                "mode": "preview",
-                "source": false
+                "file": "Vidasun-Upades-Rev-0_8.pdf"
               }
             }
           }
@@ -69,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c2898fc338fb4916",
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ජීවිතය/0 ෴ 0.md",
+                "file": "Vidasun-Upades-Rev-0_8.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ජීවිතය/0 ෴ 0.md",
+                "file": "Vidasun-Upades-Rev-0_8.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ජීවිතය/0 ෴ 0.md"
+                "file": "Vidasun-Upades-Rev-0_8.pdf"
               }
             }
           }
@@ -148,17 +145,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bbc4addc237fdbd7",
+  "active": "ca5166ac587f5df3",
   "lastOpenFiles": [
-    "ජීවිතය/උදාහරණ.md",
+    "පරියාය සූත්‍රය.md",
+    "උපදෙස් (භාවනා).md",
+    "zenmind.pdf",
     "ජීවිතය/0 ෴ 0.md",
-    "extra topics/වනය.md",
-    "ජීවිතය/වැකි.md",
-    "ජීවිතය/සංසාරය.md",
-    "ජීවිතය/ලෝකය හා යතාර්ථය.md",
-    "ජීවිතය/දැකිය යුතු ලකුණු.md",
-    "extra topics/යතාර්ථය වූ නිරෝධයේ ස්වභාවය.md",
+    "Beginners mind.md",
+    "().md",
+    "extra topics/මාරයා/මාර ධමර්‍.md",
     "extra topics/මාරයා/මාරයා.md",
-    "ජීවිතය/මාර්ගය.md"
+    "Vidasun-Upades-Rev-0_8.pdf",
+    "Vidasun-Upades-Rev-0_8.md"
   ]
 }
