@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3fea35650dd73963",
+        "id": "f425a9d329ad5d10",
         "type": "tabs",
         "children": [
           {
-            "id": "ca5166ac587f5df3",
+            "id": "e6d2e0ec18aeaa79",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Vidasun-Upades-Rev-0_8.pdf"
+                "file": "ජීවිතය/0 ෴ 0.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -46,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ලෝකය",
+                "query": "tag:#යෝනිසෝ_මනසිකාරය",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,8 +64,17 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "d01e8e848bbf69b9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -83,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vidasun-Upades-Rev-0_8.pdf",
+                "file": "ජීවිතය/0 ෴ 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vidasun-Upades-Rev-0_8.pdf",
+                "file": "ජීවිතය/0 ෴ 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +134,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vidasun-Upades-Rev-0_8.pdf"
+                "file": "ජීවිතය/0 ෴ 0.md"
+              }
+            }
+          },
+          {
+            "id": "2295cc2fc6f10964",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -145,17 +166,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ca5166ac587f5df3",
+  "active": "1ef4a7e30dfac2f2",
   "lastOpenFiles": [
-    "පරියාය සූත්‍රය.md",
+    "ජීවිතය/වැකි.md",
+    "ජීවිතය/මාර්ගය.md",
+    "ජීවිතය/සංසාරය.md",
+    "ජීවිතය/0 ෴ 0.md",
+    "ජීවිතය/උදාහරණ.md",
+    "ජීවිතය/දැකිය යුතු ලකුණු.md",
+    "extra topics/පටිච්චසමුත්පන්න බව.md",
+    "extra topics/මාරයා/මාරයා.md",
+    "extra topics/මාරයා/මාර සේනාව.md",
+    "extra topics/යතාර්ථය වූ නිරෝධයේ ස්වභාවය.md",
+    "extra topics/ජීවිතයේ ස්වභාවය.md",
+    "Vidasun-Upades-Rev-0_8.pdf",
+    "Beginners mind.md",
+    "ජීවිතය/ලෝකය හා යතාර්ථය.md",
     "උපදෙස් (භාවනා).md",
     "zenmind.pdf",
-    "ජීවිතය/0 ෴ 0.md",
-    "Beginners mind.md",
-    "().md",
+    "zenmind.pdf.md",
+    "Pictures/🖼/zen mind.gif",
+    "පරියාය සූත්‍රය.md",
     "extra topics/මාරයා/මාර ධමර්‍.md",
-    "extra topics/මාරයා/මාරයා.md",
-    "Vidasun-Upades-Rev-0_8.pdf",
-    "Vidasun-Upades-Rev-0_8.md"
+    "().md"
   ]
 }
