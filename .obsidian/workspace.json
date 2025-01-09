@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f425a9d329ad5d10",
+        "id": "0f3f34a1f0afe8f6",
         "type": "tabs",
         "children": [
           {
-            "id": "e6d2e0ec18aeaa79",
+            "id": "904ebe5459e5235a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "ජීවිතය/0 ෴ 0.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#යෝනිසෝ_මනසිකාරය",
+                "query": "tag:#මාර්ගය",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -144,7 +143,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -166,12 +167,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1ef4a7e30dfac2f2",
+  "active": "904ebe5459e5235a",
   "lastOpenFiles": [
-    "ජීවිතය/වැකි.md",
+    "Dailey Notes/2023-02-20.md",
+    "excalibrain.md",
+    "Beginners mind.md",
+    "Untitled.md",
+    "පරියාය සූත්‍රය.md",
+    "උපදෙස් (භාවනා).md",
+    "Vidasun-Upades-Rev-0_8.pdf",
+    "zenmind.pdf",
+    "ජීවිතය/0 ෴ 0.md",
     "ජීවිතය/මාර්ගය.md",
     "ජීවිතය/සංසාරය.md",
-    "ජීවිතය/0 ෴ 0.md",
+    "ජීවිතය/වැකි.md",
     "ජීවිතය/උදාහරණ.md",
     "ජීවිතය/දැකිය යුතු ලකුණු.md",
     "extra topics/පටිච්චසමුත්පන්න බව.md",
@@ -179,14 +188,9 @@
     "extra topics/මාරයා/මාර සේනාව.md",
     "extra topics/යතාර්ථය වූ නිරෝධයේ ස්වභාවය.md",
     "extra topics/ජීවිතයේ ස්වභාවය.md",
-    "Vidasun-Upades-Rev-0_8.pdf",
-    "Beginners mind.md",
     "ජීවිතය/ලෝකය හා යතාර්ථය.md",
-    "උපදෙස් (භාවනා).md",
-    "zenmind.pdf",
     "zenmind.pdf.md",
     "Pictures/🖼/zen mind.gif",
-    "පරියාය සූත්‍රය.md",
     "extra topics/මාරයා/මාර ධමර්‍.md",
     "().md"
   ]
